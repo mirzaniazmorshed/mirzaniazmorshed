@@ -1,43 +1,16 @@
 # Mirza Niaz Morshed  
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub)  
-
 ## About Me  
-I am a **Computer Science and Engineering student** with a major in **Artificial Intelligence**. My interests lie in backend development, and I enjoy working on efficient and scalable systems.  
-
-I am currently developing my skills in:  
-- Python  
-- Django  
-- PostgreSQL  
-- HTML, CSS, Tailwind CSS, Bootstrap  
-- JavaScript  
-
-While still learning, I aim to improve as a **junior backend developer** with a focus on clean and maintainable code.  
+I am a **Computer Science and Engineering student** with a major in **Artificial Intelligence**. My focus is on backend development, and I am currently improving my skills in Python, Django, PostgreSQL, and web technologies like HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, C, and C++.  
 
 ---
 
 ## Tech Skills  
-### Programming Languages  
-- Python  
-- JavaScript  
-- C  
-- C++  
-
-### Frameworks and Libraries  
-- Django  
-- Tailwind CSS  
-- Bootstrap  
-
-### Frontend Development  
-- HTML  
-- CSS  
-
-### Databases  
-- PostgreSQL  
-
-### Tools  
-- Git  
-- VS Code  
+- **Languages**: Python, JavaScript, C, C++  
+- **Frameworks/Libraries**: Django, Tailwind CSS, Bootstrap  
+- **Frontend**: HTML, CSS  
+- **Databases**: PostgreSQL  
+- **Tools**: Git, VS Code  
 
 ---
 
@@ -47,4 +20,7 @@ While still learning, I aim to improve as a **junior backend developer** with a 
 ---
 
 ## Contact  
-Feel free to explore my projects or connect with me to collaborate on exciting ideas.  
+Feel free to explore my projects or connect for collaboration.  
+
+- [LinkedIn](https://www.linkedin.com/in/mirzaniazmorshed)  
+- [Facebook](https://www.facebook.com/mirzaniazmorshed)  
