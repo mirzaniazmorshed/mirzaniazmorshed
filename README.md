@@ -1,16 +1,50 @@
-## Hi there 👋
+# Mirza Niaz Morshed  
 
-<!--
-**mirzaniazmorshed/mirzaniazmorshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub)  
 
-Here are some ideas to get you started:
+## About Me  
+I am a **Computer Science and Engineering student** with a major in **Artificial Intelligence**. My interests lie in backend development, and I enjoy working on efficient and scalable systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing my skills in:  
+- Python  
+- Django  
+- PostgreSQL  
+- HTML, CSS, Tailwind CSS, Bootstrap  
+- JavaScript  
+
+While still learning, I aim to improve as a **junior backend developer** with a focus on clean and maintainable code.  
+
+---
+
+## Tech Skills  
+### Programming Languages  
+- Python  
+- JavaScript  
+- C  
+- C++  
+
+### Frameworks and Libraries  
+- Django  
+- Tailwind CSS  
+- Bootstrap  
+
+### Frontend Development  
+- HTML  
+- CSS  
+
+### Databases  
+- PostgreSQL  
+
+### Tools  
+- Git  
+- VS Code  
+
+---
+
+## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirzaniazmorshed&show_icons=true&hide_title=true&count_private=true&theme=default)  
+
+---
+
+## Contact  
+Feel free to explore my projects or connect with me to collaborate on exciting ideas.  
