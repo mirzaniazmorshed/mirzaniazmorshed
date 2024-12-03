@@ -1,7 +1,6 @@
-# Mirza Niaz Morshed  
-  
-## About Me  
-I am a **Computer Science and Engineering student** with a major in **Artificial Intelligence**. My focus is on backend development, and I am currently improving my skills in Python, Django, PostgreSQL, and web technologies like HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, C, and C++.  
+# Mirza Niaz Morshed
+
+I am a **Computer Science and Engineering student** majoring in **Artificial Intelligence**. I focus on backend development and am currently working with Python, Django, PostgreSQL, and web technologies like JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap.  
 
 ---
 
@@ -21,12 +20,10 @@ I am a **Computer Science and Engineering student** with a major in **Artificial
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaniazmorshed&layout=compact&theme=default)  
 
 ## GitHub Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirzaniazmorshed&theme=default)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mirzaniazmorshed)  
 
 ---
 
 ## Contact  
-Feel free to explore my projects or connect for collaboration.  
-
 - [LinkedIn](https://www.linkedin.com/in/mirzaniazmorshed)  
 - [Facebook](https://www.facebook.com/mirzaniazmorshed)  
