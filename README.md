@@ -13,6 +13,3 @@ I'm a **Computer Science and Engineering student** with a major in **Artificial 
 
 ---
 
-## Contact  
-- [LinkedIn](https://www.linkedin.com/in/mirzaniazmorshed)  
-- [Facebook](https://www.facebook.com/mirzaniazmorshed)  
