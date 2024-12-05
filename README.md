@@ -4,11 +4,12 @@ I'm a **Computer Science and Engineering student** with a major in **Artificial 
 
 ---
 
-## Tech Skills  
+## Tech Skills
+
 - **Languages**: Python, JavaScript, C, C++  
 - **Frameworks/Libraries**: Django, Tailwind CSS, Bootstrap  
 - **Frontend**: HTML, CSS  
-- **Databases**: PostgreSQL  
+- **Databases**: PostgreSQL, SQLite, MySQL  
 - **Tools**: Git, VS Code  
 
 ---
